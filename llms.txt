@@ -1,0 +1,11 @@
+---
+layout: none
+---
+# APIs.io Deprecation
+
+> How much notice each provider promises before retiring an API, how long old versions stay supported, and how it tells you. Every statement is quoted word for word from the provider's own page, with the page and the date it was read. Nothing is generated, and APIs.io verifies none of it.
+
+- [Deprecation directory](https://apis.io/deprecation/): every published document
+- [API Commons Deprecation schema](https://github.com/api-commons/deprecation-policy): the format these documents use
+- [RFC 8594 Sunset](https://www.rfc-editor.org/rfc/rfc8594): the Sunset HTTP header
+- [RFC 9745 Deprecation](https://www.rfc-editor.org/rfc/rfc9745): the Deprecation HTTP header
